@@ -18,5 +18,5 @@ To run the program
     
 ## Exemple
 
-![App Screenshot](https://s4.gifyu.com/images/Screen-Recording-2022-10-20-at-22.18.01.gif)
+![App Screenshot](https://s1.gifyu.com/images/Screen-Recording-2022-10-20-at-22.35.49-1.gif)
 
